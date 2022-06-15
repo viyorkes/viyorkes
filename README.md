@@ -1,5 +1,5 @@
 
-## Hello! I'm Victor Sleiman
+## I'm graduated in System Development and have 6 years of experience as a software developer, working on different types of projects.
  <div>
   <a href="https://github.com/viyorkes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viyorkes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

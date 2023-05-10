@@ -1,5 +1,5 @@
 
-## I'm a software engineer with a mischievous side, much like the ghostly Pokemon Gengar. My love for coding and my desire to create efficient and reliable software is matched only by my love for giving my opponents a good scare in Pokemon battles. When I'm not haunting the codebase, searching for bugs and fixing them, I'm haunting the Pokemon gyms and dominating the leaderboards. I'm always on the lookout for a new challenge, whether it's in the code or in the world of Pokemon, and I'm never one to back down from a good fight.
+## I'm a software engineer with a mischievous side, much like the ghostly Pokemon Gengar. My love for coding and my desire to create efficient and reliable software.
  <div>
   <a href="https://github.com/viyorkes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viyorkes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

@@ -1,5 +1,5 @@
 
-## I'm a software engineer with a mischievous side, much like the ghostly Pokemon Gengar. My love for coding and my desire to create efficient and reliable software.
+## Backend Engineer with 9 years of experience in building scalable APIs, microservices, and deploying AI and Machine Learning solutions in production. Passionate about clean code, high-performance systems, and delivering business-focused software solutions.
  <div>
   <a href="https://github.com/viyorkes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viyorkes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
